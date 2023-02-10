@@ -1,0 +1,50 @@
+#title {
+    font-size: 25px;
+    font-family:'Times New Roman', Times, serif;
+    color: white;
+    background-color: green;
+    text-align: center;
+}
+
+.dog-chef {
+    width: 400px;
+    height: auto;
+}
+
+.hungry {
+    width: 400px;
+    height: auto;
+}
+
+.recipe {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+    color: blueviolet;
+    background-attachment: rgb(141, 12, 12);
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+}
+
+.lowTitle {
+    font-size: 25px;
+    font-family:'Times New Roman', Times, serif;
+    color: rgb(255, 46, 46);
+    background-color: rgb(0, 112, 9);
+    text-align: center;
+}
+
+.light {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: lighter;
+}
+
+.bon {
+    text-align: center;
+    font-size: 25px;
+    color: rgb(161, 97, 0) ;
+    background-color: aqua;
+}
